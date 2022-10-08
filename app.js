@@ -1,5 +1,5 @@
 const apps = {
-  Android: 'https://play.google.com/',
+  Android: 'https://play.google.com/store/apps/details?id=com.stickman.warriors.stickwarriors.dragon.shadow.fight',
   iOS: 'https://www.apple.com/store',
 };
 
